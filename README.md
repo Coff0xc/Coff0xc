@@ -97,25 +97,33 @@ Python 3.x | Rust | MCP Protocol | 9 Platforms | 18 Model Adapters
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=Coff0xc&theme=github-dark-blue&hide_border=true&border_radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=Coff0xc&theme=default&hide_border=true&border_radius=8" />
-  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=Coff0xc&theme=github-dark-blue&hide_border=true&border_radius=8" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Coff0xc&theme=github-dark-blue&hide_border=true&border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Coff0xc&theme=default&hide_border=true&border_radius=8" />
+  <img src="https://streak-stats.demolab.com/?user=Coff0xc&theme=github-dark-blue&hide_border=true&border_radius=8" alt="streak" />
 </picture>
 </p>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Coff0xc&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Coff0xc&show_icons=true&theme=default&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Coff0xc&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Coff0xc&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Coff0xc&show_icons=true&theme=default&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Coff0xc&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Coff0xc&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Coff0xc&layout=compact&theme=default&hide_border=true&border_radius=8&langs_count=6" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Coff0xc&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Coff0xc&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Coff0xc&layout=compact&theme=default&hide_border=true&border_radius=8&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coff0xc&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6" />
 </picture>
 </p>
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coff0xc/Coff0xc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coff0xc/Coff0xc/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Coff0xc/Coff0xc/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
