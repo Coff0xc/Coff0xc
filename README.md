@@ -79,20 +79,17 @@ Prompt injection -> Agent hijacking -> MCP exploitation -> Tool poisoning
 
 ### Activity / 活动
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coff0xc&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
-</p>
+Private contribution visibility is controlled by GitHub profile settings.
+This README uses the contribution graph generated from the visible profile
+activity instead of third-party stats cards.
+
+私有贡献展示由 GitHub 个人资料设置控制。
+这里使用基于可见 Profile 活动生成的贡献图，不使用容易漏私有数据的第三方统计卡。
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coff0xc&theme=github_dark" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Coff0xc&theme=github-dark-blue&hide_border=true&border_radius=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Coff0xc&theme=default&hide_border=true&border_radius=8" />
-    <img src="https://streak-stats.demolab.com/?user=Coff0xc&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub streak" />
-  </picture>
+  <a href="https://github.com/Coff0xc?tab=overview&from=2026-05-01&to=2026-05-24">
+    <img src="https://img.shields.io/badge/GitHub_Profile_Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile activity" />
+  </a>
 </p>
 
 ### Contributions / 贡献
