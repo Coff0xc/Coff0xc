@@ -44,10 +44,10 @@ Prompt injection -> Agent hijacking -> MCP exploitation -> Tool poisoning
 | Project / 项目 | Focus / 重点 | Defensive value / 防御价值 |
 | --- | --- | --- |
 | [AutoRedTeam-Orchestrator](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) | AI red team orchestration with SDK, CLI, MCP, Docker sandboxing, and CI artifacts. AI 红队编排、SDK/CLI/MCP、Docker 沙箱与 CI 证据。 | Turns ad hoc testing into repeatable assessment workflows. 把零散测试沉淀为可复现评估流程。 |
+| [Github-API-scan](https://github.com/Coff0xc/Github-API-scan) | Find leaked OpenAI / Claude / Gemini / DeepSeek keys. Pairs each key with its relay URL and checks if it still works. 找出泄露的 AI API Key，配对中转地址并验证是否仍有效。 | Local dashboard, masked findings, 50+ platforms. 本机面板、脱敏发现记录、50+ 平台。 |
 | [catchclaw](https://github.com/Coff0xc/catchclaw) | Multi-platform agent security testing with DAG-style attack chains and Rust components. 多平台 Agent 安全测试、DAG 攻击链与 Rust 组件。 | Helps evaluate agent behavior, tool trust boundaries, and exploit paths. 评估 Agent 行为、工具信任边界和利用路径。 |
 | [LLM-Security-Assessment-Framework](https://github.com/Coff0xc/LLM-Security-Assessment-Framework) | LLM assessment framework covering jailbreak, prompt injection, and adapter-driven testing. 覆盖越狱、提示词注入和多适配器测试的大模型评估框架。 | Gives teams structured scenarios for measuring model and app resilience. 为模型和应用韧性测试提供结构化场景。 |
 | [CTF-MCP](https://github.com/Coff0xc/CTF-MCP) | MCP server for CTF workflows across web, crypto, pwn, and challenge automation. 面向 Web/Crypto/Pwn/自动解题流程的 CTF MCP Server。 | Demonstrates how tool-rich agents can be constrained, tested, and audited. 展示富工具 Agent 如何约束、测试和审计。 |
-| [Github-API-scan](https://github.com/Coff0xc/Github-API-scan) | GitHub API key scanning and validation workflows for multiple AI providers. 多 AI Provider 的 GitHub API Key 扫描与验证流程。 | Supports secret discovery, exposure triage, and remediation evidence. 支持密钥发现、暴露分级和修复证据。 |
 | [coffee-skill](https://github.com/Coff0xc/coffee-skill) | Codex/agent workflow skill pack for dev, RAG, API/data, and security review tasks. 面向开发、RAG、API/数据和安全审查的 Agent 工作流技能包。 | Encodes repeatable engineering and security workflows for agentic development. 固化可复用的工程与安全工作流。 |
 
 ---
