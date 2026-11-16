@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=FF4444&center=true&vCenter=true&repeat=true&width=820&height=36&lines=AI+Security+Researcher;LLM+%2F+Agent+Red+Teaming;MCP+Security+%7C+Toolchain+Risk)](https://github.com/Coff0xc)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&repeat=true&width=840&height=40&lines=AI+Security+Researcher;LLM+%2F+Agent+Red+Teaming;MCP+Security+%7C+Toolchain+Risk)](https://github.com/Coff0xc)
 
-<br/>
+Reproducible tools for authorized testing — turning attack paths into defensive evidence.
 
-<a href="https://github.com/Coff0xc?tab=followers"><img src="https://img.shields.io/github/followers/Coff0xc?style=flat&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>&nbsp;
-<a href="https://github.com/Coff0xc?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Coff0xc?style=flat&logo=github&label=Stars&color=181717" alt="GitHub stars" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Coff0xc&style=flat&color=grey" alt="Profile views" />
+<a href="https://github.com/Coff0xc?tab=followers"><img src="https://img.shields.io/github/followers/Coff0xc?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>&nbsp;
+<a href="https://github.com/Coff0xc?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Coff0xc?style=flat-square&logo=github&label=Stars&color=181717" alt="GitHub stars" /></a>&nbsp;
+<img src="https://img.shields.io/github/last-commit/Coff0xc/AutoRedTeam-Orchestrator?style=flat-square&logo=github&label=Latest%20commit&color=181717" alt="Latest commit" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ```text
 $ whoami
 Coff0xc — AI security researcher.
-I work on AI red teaming, LLM application security, agent runtime abuse, and MCP / toolchain risk.
+AI red teaming, LLM application security, agent runtime abuse, MCP / toolchain risk.
 
 $ mission
 Build reproducible tools for authorized testing and defensive validation.
@@ -76,19 +76,9 @@ Prompt injection -> Agent hijacking -> MCP exploitation -> Tool poisoning
 
 ---
 
-### Activity
-
-Private contribution visibility is controlled by GitHub profile settings.
-This README uses the contribution graph generated from the visible profile
-activity instead of third-party stats cards.
-
-<p align="center">
-  <a href="https://github.com/Coff0xc?tab=overview&from=2026-05-01&to=2026-05-24">
-    <img src="https://img.shields.io/badge/GitHub_Profile_Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile activity" />
-  </a>
-</p>
-
 ### Contributions
+
+Private contribution visibility is controlled by GitHub profile settings. The graph below is generated from visible profile activity instead of third-party stats cards.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coff0xc/Coff0xc/output/github-snake-dark.svg" />
